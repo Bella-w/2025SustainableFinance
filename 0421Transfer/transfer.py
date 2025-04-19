@@ -70,4 +70,4 @@ final_df = final_df[column_order] # 依照指定欄位順序重新排列資料
 output_path = 'py_output.csv' # 設定輸出檔案的名稱與路徑
 final_df.to_csv(output_path, index=False, encoding='utf-8-sig') # 匯出為 CSV 檔，使用 utf-8-sig 編碼（適用於 Excel）
 
-print("最終格式完成，檔案已儲存為：", output_path) # 顯示處理完成訊息
+print("檔案已儲存為：", output_path) # 顯示處理完成訊息
