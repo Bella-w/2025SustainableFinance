@@ -7,6 +7,7 @@
 import pandas as pd
 df = pd.read_csv('原始檔案.csv')
 ``` 
+
 這行是把 CSV 檔案讀進來，變成一個表格形式（DataFrame），我們就能用程式處理它。
 
 
@@ -23,13 +24,22 @@ df_clean.columns = df_clean.columns.str.strip()
 
 ### 3. 設定橫向資料欄位對應
 
-我們的資料原本有：
+原先的資料篩選條件有：
 
-5 年的 ESG 分數欄位
+a. ESG Score>=65
 
-5 年的 ESG3 (SDG 3) 是否有符合
+b. TRBC Industry Name != "Tobacoo" & "Aerospace&Defense" & "Oil&Gas"
 
-5 年的 ESG9 (SDG 9) 是否有符合
+c. SDG 3 & SDG 9 == true
+
+d. Market Capitalization > 50 billions
+
+e. Country of Headquarters in Asia
+
+共有38間公司，並顯示出這些公司的 :
+
+5 年的 ESG 分數、SDG 3、SDG 9 欄位
+
 
 這些欄位是以欄的方式存在，要轉成「每一列是一個年度」的格式，所以要先指定欄位名稱給程式知道。
 
@@ -61,6 +71,8 @@ final_df.to_csv("轉換後_FINAL.csv")
 ```
 輸出轉換好的 CSV 檔案，就可以用 Excel 打開或再做進一步處理嘍！
 
+---
+
 ### 延伸補充
 
 這個程式用到的基本知識有：
@@ -75,6 +87,8 @@ for 迴圈（處理每一年）
 
 檔案輸入輸出 (read_csv, to_csv)
 
+可以根據這些要點去做額外的搜尋及學習
+
 🌟 可接著做的對象或運用：
 
 解析 ESG 資料在不同年度的變化趨勢
@@ -85,5 +99,5 @@ for 迴圈（處理每一年）
 
 製作好看的資料表或報表出來
 
-🎉 希望這份教學說明有助於你了解 ESG 資料轉換的過程！
+🎉 希望這份說明有助於了解 ESG 資料轉換的過程 ~
 
