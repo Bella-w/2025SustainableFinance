@@ -6,7 +6,7 @@
 ```python
 import pandas as pd
 df = pd.read_csv('原始檔案.csv')
-```
+``` 
 這行是把 CSV 檔案讀進來，變成一個表格形式（DataFrame），我們就能用程式處理它。
 
 
