@@ -2,16 +2,15 @@
 
 這份程式是為了將一份 ESG 資料表中「橫向」的年度資料（例如第一年ESG、第二年ESG...）轉成「直式」的資料格式，讓每一列代表一家公司在某一個年度的 ESG 評分與 SDG 對應情況。這樣的格式比較方便後續分析，例如畫圖、統計、篩選等等。
 
-🧌 1. 載入資料（pandas 套件）
-
+### 1. 載入資料（pandas 套件）
+```python
 import pandas as pd
 df = pd.read_csv('原始檔案.csv')
-
-這行是把 CSV 檔案讀進來，變成一個表格形式（DataFrame），我們就能用程式處理它。
+```這行是把 CSV 檔案讀進來，變成一個表格形式（DataFrame），我們就能用程式處理它。
 
 ---
 
-### 💭 2. 清理資料
+### 2. 清理資料
 ```python
 df_clean = df.dropna(subset=["Identifier"]).copy()
 df_clean.columns = df_clean.columns.str.strip()
@@ -22,7 +21,7 @@ df_clean.columns = df_clean.columns.str.strip()
 
 去掉欄位名稱中可能有的空白符號（避免之後找不到欄位）
 
-📅 3. 設定橫向資料欄位對應
+### 3. 設定橫向資料欄位對應
 
 我們的資料原本有：
 
@@ -34,7 +33,7 @@ df_clean.columns = df_clean.columns.str.strip()
 
 這些欄位是以欄的方式存在，要轉成「每一列是一個年度」的格式，所以要先指定欄位名稱給程式知道。
 
-🔀 4. 逐年轉直（for 迴圈）
+### 4. 逐年轉直（for 迴圈）
 
 for i, year in enumerate(years):
     temp = df_clean.copy()
@@ -46,23 +45,23 @@ for i, year in enumerate(years):
 
 這段會重複跑 5 次，對應 FY0 ~ FY-4，每次把一間公司該年度的 ESG / ESG3 / ESG9 取出來，變成一列，然後全部合併起來。
 
-📤 5. 清除不需要的欄位
+### 5. 清除不需要的欄位
 
 把那些橫向的原始 ESG 欄位刪掉，只保留公司原始資料（像是 Identifier, 公司名稱...）加上 ESG / YEAR / ESG3 / ESG9
 
-🔠 6. 排序
+### 6. 排序
 
 final_df.sort_values(by=['Identifier', 'YEAR_order'])
 
 確保每家公司的資料是按照 FY0 → FY-4 的順序排列。
 
-📊 7. 最後輸出
+### 7. 最後輸出
 
 final_df.to_csv("轉換後_FINAL.csv")
 
 輸出轉換好的 CSV 檔案，就可以用 Excel 打開或再做進一步處理嘍！
 
-📚 延伸補充
+### 延伸補充
 
 這個程式用到的基本知識有：
 
