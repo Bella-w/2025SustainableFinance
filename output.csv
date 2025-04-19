@@ -1,0 +1,164 @@
+﻿Identifier,Company Name,"Company Market Cap
+(Billions, USD)",Country of Headquarters,TRBC Industry Name,"ESG Score
+(FY0)","SDG 3 Good Health and Well-being
+(FY0)","SDG 9 Industry, Innovation and Infrastructure
+(FY0)",YEAR,ESG,ESG3,ESG9
+000333.SZ,Midea Group Co Ltd,73.88,China,"Appliances, Tools & Housewares",82.54,True,True,FY0,82.54,TRUE,TRUE
+005930.KS,Samsung Electronics Co Ltd,257.26,Korea; Republic (S. Korea),Phones & Handheld Devices,76.63,True,True,FY0,76.63,TRUE,TRUE
+005930.KS,Samsung Electronics Co Ltd,257.26,Korea; Republic (S. Korea),Phones & Handheld Devices,76.63,True,True,FY-1,75.73,TRUE,TRUE
+005930.KS,Samsung Electronics Co Ltd,257.26,Korea; Republic (S. Korea),Phones & Handheld Devices,76.63,True,True,FY-2,80.11,TRUE,TRUE
+005930.KS,Samsung Electronics Co Ltd,257.26,Korea; Republic (S. Korea),Phones & Handheld Devices,76.63,True,True,FY-3,83.01,TRUE,TRUE
+005930.KS,Samsung Electronics Co Ltd,257.26,Korea; Republic (S. Korea),Phones & Handheld Devices,76.63,True,True,FY-4,83.36,TRUE,TRUE
+0388.HK,Hong Kong Exchanges and Clearing Ltd,54.13,Hong Kong,Financial & Commodity Market Operators & Service Providers,68.81,True,True,FY0,68.81,TRUE,TRUE
+0388.HK,Hong Kong Exchanges and Clearing Ltd,54.13,Hong Kong,Financial & Commodity Market Operators & Service Providers,68.81,True,True,FY-1,69.1,TRUE,TRUE
+0388.HK,Hong Kong Exchanges and Clearing Ltd,54.13,Hong Kong,Financial & Commodity Market Operators & Service Providers,68.81,True,True,FY-2,66.6,TRUE,TRUE
+0388.HK,Hong Kong Exchanges and Clearing Ltd,54.13,Hong Kong,Financial & Commodity Market Operators & Service Providers,68.81,True,True,FY-3,68.34,TRUE,TRUE
+0388.HK,Hong Kong Exchanges and Clearing Ltd,54.13,Hong Kong,Financial & Commodity Market Operators & Service Providers,68.81,True,True,FY-4,67.44,TRUE,TRUE
+0700.HK,Tencent Holdings Ltd,543.03,China,Online Services,88.08,True,True,FY0,88.08,TRUE,TRUE
+0700.HK,Tencent Holdings Ltd,543.03,China,Online Services,88.08,True,True,FY-1,84.98,TRUE,TRUE
+0700.HK,Tencent Holdings Ltd,543.03,China,Online Services,88.08,True,True,FY-2,84.63,TRUE,TRUE
+0700.HK,Tencent Holdings Ltd,543.03,China,Online Services,88.08,True,True,FY-3,81.95,TRUE,TRUE
+1299.HK,AIA Group Ltd,74.74,Hong Kong,Life & Health Insurance,71.09,True,True,FY0,71.09,TRUE,TRUE
+1299.HK,AIA Group Ltd,74.74,Hong Kong,Life & Health Insurance,71.09,True,True,FY-1,70.93,TRUE,TRUE
+1299.HK,AIA Group Ltd,74.74,Hong Kong,Life & Health Insurance,71.09,True,True,FY-2,71.49,TRUE,TRUE
+207940.KS,Samsung Biologics Co Ltd,52.67,Korea; Republic (S. Korea),Pharmaceuticals,82.03,True,True,FY0,82.03,TRUE,TRUE
+207940.KS,Samsung Biologics Co Ltd,52.67,Korea; Republic (S. Korea),Pharmaceuticals,82.03,True,True,FY-1,83.32,TRUE,TRUE
+207940.KS,Samsung Biologics Co Ltd,52.67,Korea; Republic (S. Korea),Pharmaceuticals,82.03,True,True,FY-2,77.05,TRUE,TRUE
+2317.TW,Hon Hai Precision Industry Co Ltd,57.9,Taiwan,Electronic Equipment & Parts,70.95,True,True,FY0,70.95,TRUE,TRUE
+2317.TW,Hon Hai Precision Industry Co Ltd,57.9,Taiwan,Electronic Equipment & Parts,70.95,True,True,FY-1,76.94,TRUE,TRUE
+2317.TW,Hon Hai Precision Industry Co Ltd,57.9,Taiwan,Electronic Equipment & Parts,70.95,True,True,FY-2,63.2,TRUE,TRUE
+2317.TW,Hon Hai Precision Industry Co Ltd,57.9,Taiwan,Electronic Equipment & Parts,70.95,True,True,FY-3,66.89,TRUE,TRUE
+2317.TW,Hon Hai Precision Industry Co Ltd,57.9,Taiwan,Electronic Equipment & Parts,70.95,True,True,FY-4,67.65,TRUE,TRUE
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,678.05,Taiwan,Semiconductors,84.55,True,True,FY0,84.55,TRUE,TRUE
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,678.05,Taiwan,Semiconductors,84.55,True,True,FY-1,81.22,TRUE,TRUE
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,678.05,Taiwan,Semiconductors,84.55,True,True,FY-2,82.38,TRUE,TRUE
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,678.05,Taiwan,Semiconductors,84.55,True,True,FY-3,83.24,TRUE,TRUE
+2330.TW,Taiwan Semiconductor Manufacturing Co Ltd,678.05,Taiwan,Semiconductors,84.55,True,True,FY-4,83.49,TRUE,TRUE
+4519.T,Chugai Pharmaceutical Co Ltd,98.19,Japan,Pharmaceuticals,78.14,True,True,FY0,78.14,TRUE,TRUE
+4519.T,Chugai Pharmaceutical Co Ltd,98.19,Japan,Pharmaceuticals,78.14,True,True,FY-1,77.96,TRUE,TRUE
+4519.T,Chugai Pharmaceutical Co Ltd,98.19,Japan,Pharmaceuticals,78.14,True,True,FY-2,74.78,TRUE,TRUE
+4519.T,Chugai Pharmaceutical Co Ltd,98.19,Japan,Pharmaceuticals,78.14,True,True,FY-3,70.77,TRUE,TRUE
+4519.T,Chugai Pharmaceutical Co Ltd,98.19,Japan,Pharmaceuticals,78.14,True,True,FY-4,70.08,TRUE,TRUE
+600900.SS,China Yangtze Power Co Ltd,99.16,China,Electric Utilities,71.36,True,True,FY0,71.36,TRUE,TRUE
+600900.SS,China Yangtze Power Co Ltd,99.16,China,Electric Utilities,71.36,True,True,FY-1,60.85,TRUE,TRUE
+600900.SS,China Yangtze Power Co Ltd,99.16,China,Electric Utilities,71.36,True,True,FY-2,58.07,TRUE,TRUE
+600900.SS,China Yangtze Power Co Ltd,99.16,China,Electric Utilities,71.36,True,True,FY-3,32.35,TRUE,TRUE
+600900.SS,China Yangtze Power Co Ltd,99.16,China,Electric Utilities,71.36,True,True,FY-4,34.63,TRUE,TRUE
+601088.SS,China Shenhua Energy Co Ltd,102.08,China,Coal,81.06,True,True,FY0,81.06,TRUE,TRUE
+601088.SS,China Shenhua Energy Co Ltd,102.08,China,Coal,81.06,True,True,FY-1,82.9,TRUE,TRUE
+601088.SS,China Shenhua Energy Co Ltd,102.08,China,Coal,81.06,True,True,FY-2,74.92,TRUE,TRUE
+601088.SS,China Shenhua Energy Co Ltd,102.08,China,Coal,81.06,True,True,FY-3,76.38,TRUE,TRUE
+601318.SS,Ping An Insurance Group Co of China Ltd,116.4,China,Life & Health Insurance,66.3,True,True,FY0,66.3,TRUE,TRUE
+601318.SS,Ping An Insurance Group Co of China Ltd,116.4,China,Life & Health Insurance,66.3,True,True,FY-1,62.96,TRUE,TRUE
+601318.SS,Ping An Insurance Group Co of China Ltd,116.4,China,Life & Health Insurance,66.3,True,True,FY-2,70.53,TRUE,TRUE
+601318.SS,Ping An Insurance Group Co of China Ltd,116.4,China,Life & Health Insurance,66.3,True,True,FY-3,63.07,TRUE,TRUE
+601318.SS,Ping An Insurance Group Co of China Ltd,116.4,China,Life & Health Insurance,66.3,True,True,FY-4,64.95,TRUE,TRUE
+6501.T,Hitachi Ltd,109.35,Japan,Consumer Goods Conglomerates,84.01,True,True,FY0,84.01,TRUE,TRUE
+6501.T,Hitachi Ltd,109.35,Japan,Consumer Goods Conglomerates,84.01,True,True,FY-1,82.33,TRUE,TRUE
+6501.T,Hitachi Ltd,109.35,Japan,Consumer Goods Conglomerates,84.01,True,True,FY-2,85.05,TRUE,TRUE
+6501.T,Hitachi Ltd,109.35,Japan,Consumer Goods Conglomerates,84.01,True,True,FY-3,85.14,TRUE,TRUE
+6501.T,Hitachi Ltd,109.35,Japan,Consumer Goods Conglomerates,84.01,True,True,FY-4,88.21,TRUE,TRUE
+6758.T,Sony Group Corp,149.68,Japan,Household Electronics,87.7,True,True,FY0,87.7,TRUE,TRUE
+6758.T,Sony Group Corp,149.68,Japan,Household Electronics,87.7,True,True,FY-1,87.44,TRUE,TRUE
+6758.T,Sony Group Corp,149.68,Japan,Household Electronics,87.7,True,True,FY-2,88.49,TRUE,TRUE
+6758.T,Sony Group Corp,149.68,Japan,Household Electronics,87.7,True,True,FY-3,92.57,TRUE,TRUE
+7010.SE,Saudi Telecom Company SJSC,62.23,Saudi Arabia,Integrated Telecommunications Services,77.74,True,True,FY0,77.74,TRUE,TRUE
+7010.SE,Saudi Telecom Company SJSC,62.23,Saudi Arabia,Integrated Telecommunications Services,77.74,True,True,FY-1,65.28,TRUE,TRUE
+7010.SE,Saudi Telecom Company SJSC,62.23,Saudi Arabia,Integrated Telecommunications Services,77.74,True,True,FY-2,68.16,TRUE,TRUE
+7010.SE,Saudi Telecom Company SJSC,62.23,Saudi Arabia,Integrated Telecommunications Services,77.74,True,True,FY-3,63.3,TRUE,TRUE
+7010.SE,Saudi Telecom Company SJSC,62.23,Saudi Arabia,Integrated Telecommunications Services,77.74,True,True,FY-4,48.7,TRUE,TRUE
+7011.T,Mitsubishi Heavy Industries Ltd,62.42,Japan,Consumer Goods Conglomerates,73.38,True,True,FY0,73.38,TRUE,TRUE
+7011.T,Mitsubishi Heavy Industries Ltd,62.42,Japan,Consumer Goods Conglomerates,73.38,True,True,FY-1,77.76,TRUE,TRUE
+7011.T,Mitsubishi Heavy Industries Ltd,62.42,Japan,Consumer Goods Conglomerates,73.38,True,True,FY-2,72.49,TRUE,TRUE
+7011.T,Mitsubishi Heavy Industries Ltd,62.42,Japan,Consumer Goods Conglomerates,73.38,True,True,FY-3,72.58,TRUE,TRUE
+7203.T,Toyota Motor Corp,282.16,Japan,Auto & Truck Manufacturers,74.73,True,True,FY0,74.73,TRUE,TRUE
+7203.T,Toyota Motor Corp,282.16,Japan,Auto & Truck Manufacturers,74.73,True,True,FY-1,84.12,TRUE,TRUE
+7203.T,Toyota Motor Corp,282.16,Japan,Auto & Truck Manufacturers,74.73,True,True,FY-2,82.54,TRUE,TRUE
+7203.T,Toyota Motor Corp,282.16,Japan,Auto & Truck Manufacturers,74.73,True,True,FY-3,84.89,TRUE,TRUE
+7203.T,Toyota Motor Corp,282.16,Japan,Auto & Truck Manufacturers,74.73,True,True,FY-4,81.98,TRUE,TRUE
+7267.T,Honda Motor Co Ltd,51.7,Japan,Auto & Truck Manufacturers,73.23,True,True,FY0,73.23,TRUE,TRUE
+7267.T,Honda Motor Co Ltd,51.7,Japan,Auto & Truck Manufacturers,73.23,True,True,FY-1,73.42,TRUE,TRUE
+7267.T,Honda Motor Co Ltd,51.7,Japan,Auto & Truck Manufacturers,73.23,True,True,FY-2,78.32,TRUE,TRUE
+7267.T,Honda Motor Co Ltd,51.7,Japan,Auto & Truck Manufacturers,73.23,True,True,FY-3,80.46,TRUE,TRUE
+7267.T,Honda Motor Co Ltd,51.7,Japan,Auto & Truck Manufacturers,73.23,True,True,FY-4,90.07,TRUE,TRUE
+8001.T,Itochu Corp,75.24,Japan,Diversified Industrial Goods Wholesale,70.69,True,True,FY0,70.69,TRUE,TRUE
+8001.T,Itochu Corp,75.24,Japan,Diversified Industrial Goods Wholesale,70.69,True,True,FY-1,64.76,TRUE,TRUE
+8001.T,Itochu Corp,75.24,Japan,Diversified Industrial Goods Wholesale,70.69,True,True,FY-2,64.77,TRUE,TRUE
+8001.T,Itochu Corp,75.24,Japan,Diversified Industrial Goods Wholesale,70.69,True,True,FY-3,70.43,TRUE,TRUE
+8001.T,Itochu Corp,75.24,Japan,Diversified Industrial Goods Wholesale,70.69,True,True,FY-4,70.5,TRUE,TRUE
+8031.T,Mitsui & Co Ltd,54.21,Japan,Diversified Industrial Goods Wholesale,67.24,True,True,FY0,67.24,TRUE,TRUE
+8031.T,Mitsui & Co Ltd,54.21,Japan,Diversified Industrial Goods Wholesale,67.24,True,True,FY-1,62.96,TRUE,TRUE
+8031.T,Mitsui & Co Ltd,54.21,Japan,Diversified Industrial Goods Wholesale,67.24,True,True,FY-2,69.63,TRUE,TRUE
+8031.T,Mitsui & Co Ltd,54.21,Japan,Diversified Industrial Goods Wholesale,67.24,True,True,FY-3,63.77,TRUE,TRUE
+8031.T,Mitsui & Co Ltd,54.21,Japan,Diversified Industrial Goods Wholesale,67.24,True,True,FY-4,66.67,TRUE,TRUE
+8035.T,Tokyo Electron Ltd,64.63,Japan,Semiconductor Equipment & Testing,72.45,True,True,FY0,72.45,TRUE,TRUE
+8035.T,Tokyo Electron Ltd,64.63,Japan,Semiconductor Equipment & Testing,72.45,True,True,FY-1,66.26,TRUE,TRUE
+8035.T,Tokyo Electron Ltd,64.63,Japan,Semiconductor Equipment & Testing,72.45,True,True,FY-2,72.71,TRUE,TRUE
+8035.T,Tokyo Electron Ltd,64.63,Japan,Semiconductor Equipment & Testing,72.45,True,True,FY-3,71.67,TRUE,TRUE
+8035.T,Tokyo Electron Ltd,64.63,Japan,Semiconductor Equipment & Testing,72.45,True,True,FY-4,71.75,TRUE,TRUE
+8058.T,Mitsubishi Corp,70.22,Japan,Diversified Industrial Goods Wholesale,69.87,True,True,FY0,69.87,TRUE,TRUE
+8058.T,Mitsubishi Corp,70.22,Japan,Diversified Industrial Goods Wholesale,69.87,True,True,FY-1,75.41,TRUE,TRUE
+8306.T,Mitsubishi UFJ Financial Group Inc,142.83,Japan,Banks,73.89,True,True,FY0,73.89,TRUE,TRUE
+8306.T,Mitsubishi UFJ Financial Group Inc,142.83,Japan,Banks,73.89,True,True,FY-1,74.11,TRUE,TRUE
+8306.T,Mitsubishi UFJ Financial Group Inc,142.83,Japan,Banks,73.89,True,True,FY-2,79.0,TRUE,TRUE
+8306.T,Mitsubishi UFJ Financial Group Inc,142.83,Japan,Banks,73.89,True,True,FY-3,75.2,TRUE,TRUE
+8411.T,Mizuho Financial Group Inc,61.2,Japan,Banks,70.57,True,True,FY0,70.57,TRUE,TRUE
+8411.T,Mizuho Financial Group Inc,61.2,Japan,Banks,70.57,True,True,FY-1,71.88,TRUE,TRUE
+8411.T,Mizuho Financial Group Inc,61.2,Japan,Banks,70.57,True,True,FY-2,79.46,TRUE,TRUE
+8411.T,Mizuho Financial Group Inc,61.2,Japan,Banks,70.57,True,True,FY-3,75.49,TRUE,TRUE
+8766.T,Tokio Marine Holdings Inc,71.85,Japan,Property & Casualty Insurance,69.02,True,True,FY0,69.02,TRUE,TRUE
+8766.T,Tokio Marine Holdings Inc,71.85,Japan,Property & Casualty Insurance,69.02,True,True,FY-1,66.03,TRUE,TRUE
+8766.T,Tokio Marine Holdings Inc,71.85,Japan,Property & Casualty Insurance,69.02,True,True,FY-2,65.63,TRUE,TRUE
+8766.T,Tokio Marine Holdings Inc,71.85,Japan,Property & Casualty Insurance,69.02,True,True,FY-3,61.39,TRUE,TRUE
+9434.T,SoftBank Corp,75.43,Japan,Wireless Telecommunications Services,75.62,True,True,FY0,75.62,TRUE,TRUE
+9434.T,SoftBank Corp,75.43,Japan,Wireless Telecommunications Services,75.62,True,True,FY-1,79.36,TRUE,TRUE
+9434.T,SoftBank Corp,75.43,Japan,Wireless Telecommunications Services,75.62,True,True,FY-2,77.51,TRUE,TRUE
+9434.T,SoftBank Corp,75.43,Japan,Wireless Telecommunications Services,75.62,True,True,FY-3,68.51,TRUE,TRUE
+9434.T,SoftBank Corp,75.43,Japan,Wireless Telecommunications Services,75.62,True,True,FY-4,70.36,TRUE,TRUE
+9618.HK,JD.Com Inc,57.02,China,Department Stores,77.48,True,True,FY0,77.48,TRUE,TRUE
+9618.HK,JD.Com Inc,57.02,China,Department Stores,77.48,True,True,FY-1,64.28,TRUE,TRUE
+9618.HK,JD.Com Inc,57.02,China,Department Stores,77.48,True,True,FY-2,65.68,TRUE,TRUE
+9618.HK,JD.Com Inc,57.02,China,Department Stores,77.48,True,True,FY-3,69.83,TRUE,TRUE
+9633.HK,Nongfu Spring Co Ltd,53.1,China,Non-Alcoholic Beverages,68.86,True,True,FY0,68.86,TRUE,TRUE
+9633.HK,Nongfu Spring Co Ltd,53.1,China,Non-Alcoholic Beverages,68.86,True,True,FY-1,69.65,TRUE,TRUE
+BBCA.JK,Bank Central Asia Tbk PT,61.67,Indonesia,Banks,83.06,True,True,FY0,83.06,TRUE,TRUE
+BBCA.JK,Bank Central Asia Tbk PT,61.67,Indonesia,Banks,83.06,True,True,FY-1,86.18,TRUE,TRUE
+BBCA.JK,Bank Central Asia Tbk PT,61.67,Indonesia,Banks,83.06,True,True,FY-2,87.12,TRUE,TRUE
+BBCA.JK,Bank Central Asia Tbk PT,61.67,Indonesia,Banks,83.06,True,True,FY-3,87.45,TRUE,TRUE
+BBCA.JK,Bank Central Asia Tbk PT,61.67,Indonesia,Banks,83.06,True,True,FY-4,78.63,TRUE,TRUE
+BRTI.NS,Bharti Airtel Ltd,132.36,India,Wireless Telecommunications Services,66.77,True,True,FY0,66.77,TRUE,TRUE
+BRTI.NS,Bharti Airtel Ltd,132.36,India,Wireless Telecommunications Services,66.77,True,True,FY-1,68.77,TRUE,TRUE
+BRTI.NS,Bharti Airtel Ltd,132.36,India,Wireless Telecommunications Services,66.77,True,True,FY-2,69.01,TRUE,TRUE
+BRTI.NS,Bharti Airtel Ltd,132.36,India,Wireless Telecommunications Services,66.77,True,True,FY-3,56.28,TRUE,TRUE
+BRTI.NS,Bharti Airtel Ltd,132.36,India,Wireless Telecommunications Services,66.77,True,True,FY-4,56.5,TRUE,TRUE
+HDBK.NS,HDFC Bank Ltd,170.48,India,Banks,70.33,True,True,FY0,70.33,TRUE,TRUE
+HDBK.NS,HDFC Bank Ltd,170.48,India,Banks,70.33,True,True,FY-1,73.48,TRUE,TRUE
+HDBK.NS,HDFC Bank Ltd,170.48,India,Banks,70.33,True,True,FY-2,75.07,TRUE,TRUE
+HDBK.NS,HDFC Bank Ltd,170.48,India,Banks,70.33,True,True,FY-3,71.14,TRUE,TRUE
+HDBK.NS,HDFC Bank Ltd,170.48,India,Banks,70.33,True,True,FY-4,73.13,TRUE,TRUE
+HLL.NS,Hindustan Unilever Ltd,65.2,India,Personal Products,84.26,True,True,FY0,84.26,TRUE,TRUE
+ICBK.NS,ICICI Bank Ltd,117.36,India,Banks,75.44,True,True,FY0,75.44,TRUE,TRUE
+ICBK.NS,ICICI Bank Ltd,117.36,India,Banks,75.44,True,True,FY-1,76.67,TRUE,TRUE
+ICBK.NS,ICICI Bank Ltd,117.36,India,Banks,75.44,True,True,FY-2,77.45,TRUE,TRUE
+INFY.NS,Infosys Ltd,68.89,India,IT Services & Consulting,90.51,True,True,FY0,90.51,TRUE,TRUE
+INFY.NS,Infosys Ltd,68.89,India,IT Services & Consulting,90.51,True,True,FY-1,90.96,TRUE,TRUE
+INFY.NS,Infosys Ltd,68.89,India,IT Services & Consulting,90.51,True,True,FY-2,92.63,TRUE,TRUE
+INFY.NS,Infosys Ltd,68.89,India,IT Services & Consulting,90.51,True,True,FY-3,91.58,TRUE,TRUE
+INFY.NS,Infosys Ltd,68.89,India,IT Services & Consulting,90.51,True,True,FY-4,89.59,TRUE,TRUE
+KTKM.NS,Kotak Mahindra Bank Ltd,50.95,India,Banks,83.74,True,True,FY0,83.74,TRUE,TRUE
+KTKM.NS,Kotak Mahindra Bank Ltd,50.95,India,Banks,83.74,True,True,FY-1,84.9,TRUE,TRUE
+KTKM.NS,Kotak Mahindra Bank Ltd,50.95,India,Banks,83.74,True,True,FY-2,82.71,TRUE,TRUE
+LART.NS,Larsen and Toubro Ltd,52.18,India,Construction & Engineering,83.07,True,True,FY0,83.07,TRUE,TRUE
+LART.NS,Larsen and Toubro Ltd,52.18,India,Construction & Engineering,83.07,True,True,FY-1,75.66,TRUE,TRUE
+LART.NS,Larsen and Toubro Ltd,52.18,India,Construction & Engineering,83.07,True,True,FY-2,77.16,TRUE,TRUE
+LART.NS,Larsen and Toubro Ltd,52.18,India,Construction & Engineering,83.07,True,True,FY-3,76.44,TRUE,TRUE
+LART.NS,Larsen and Toubro Ltd,52.18,India,Construction & Engineering,83.07,True,True,FY-4,74.73,TRUE,TRUE
+NTES.OQ,NetEase Inc,62.52,China,Online Services,67.8,True,True,FY0,67.8,TRUE,TRUE
+NTES.OQ,NetEase Inc,62.52,China,Online Services,67.8,True,True,FY-1,71.95,TRUE,TRUE
+NTES.OQ,NetEase Inc,62.52,China,Online Services,67.8,True,True,FY-2,70.12,TRUE,TRUE
+NTES.OQ,NetEase Inc,62.52,China,Online Services,67.8,True,True,FY-3,67.58,TRUE,TRUE
+TCS.NS,Tata Consultancy Services Ltd,139.46,India,IT Services & Consulting,68.45,True,True,FY0,68.45,TRUE,TRUE
+TCS.NS,Tata Consultancy Services Ltd,139.46,India,IT Services & Consulting,68.45,True,True,FY-1,71.51,TRUE,TRUE
+TCS.NS,Tata Consultancy Services Ltd,139.46,India,IT Services & Consulting,68.45,True,True,FY-2,80.45,TRUE,TRUE
+TCS.NS,Tata Consultancy Services Ltd,139.46,India,IT Services & Consulting,68.45,True,True,FY-3,81.8,TRUE,TRUE
+TCS.NS,Tata Consultancy Services Ltd,139.46,India,IT Services & Consulting,68.45,True,True,FY-4,80.67,TRUE,TRUE
