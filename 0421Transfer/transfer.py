@@ -3,7 +3,7 @@ import pandas as pd # 匯入 pandas 套件，用於資料處理
 """
 1. 匯入資料
 """
-file_path = 'GridExport_April_19_2025_15_31_28.csv' # 引號中輸入需要的檔案，可以直接複製相對路徑
+file_path = '0421Transfer/GridExport_April_19_2025_15_31_28.csv' # 引號中輸入需要的檔案，可以直接複製相對路徑
 df = pd.read_csv(file_path)  # 使用 pandas 讀取 CSV 檔，讀入為 DataFrame
 
 """
@@ -62,13 +62,12 @@ final_df = final_df.sort_values(by=['Identifier', 'YEAR_order']).drop(columns='Y
 columns_to_exclude = esg_cols + esg3_cols + esg9_cols # 需要排除的原始欄位（因為已轉成 ESG、ESG3、ESG9）
 original_cols = [col for col in df_clean.columns if col not in columns_to_exclude]  # 除去那些欄位後剩下的欄位（公司基本資料）
 column_order = original_cols + ['YEAR', 'ESG', 'ESG3', 'ESG9']  # 設定欄位的理想順序
-final_df = final_df[column_order] # 依
-照指定欄位順序重新排列資料
+final_df = final_df[column_order] # 依照指定欄位順序重新排列資料
 
 """
 8. 輸出結果
 """
-output_path = 'output.csv' # 設定輸出檔案的名稱與路徑
+output_path = 'py_output.csv' # 設定輸出檔案的名稱與路徑
 final_df.to_csv(output_path, index=False, encoding='utf-8-sig') # 匯出為 CSV 檔，使用 utf-8-sig 編碼（適用於 Excel）
 
-print("✅ 最終格式完成，檔案已儲存為：", output_path) # 顯示處理完成訊息
+print("最終格式完成，檔案已儲存為：", output_path) # 顯示處理完成訊息
