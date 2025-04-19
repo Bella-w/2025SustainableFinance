@@ -62,7 +62,8 @@ final_df = final_df.sort_values(by=['Identifier', 'YEAR_order']).drop(columns='Y
 columns_to_exclude = esg_cols + esg3_cols + esg9_cols # 需要排除的原始欄位（因為已轉成 ESG、ESG3、ESG9）
 original_cols = [col for col in df_clean.columns if col not in columns_to_exclude]  # 除去那些欄位後剩下的欄位（公司基本資料）
 column_order = original_cols + ['YEAR', 'ESG', 'ESG3', 'ESG9']  # 設定欄位的理想順序
-final_df = final_df[column_order] # 依照指定欄位順序重新排列資料
+final_df = final_df[column_order] # 依
+照指定欄位順序重新排列資料
 
 """
 8. 輸出結果
